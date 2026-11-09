@@ -185,4 +185,4 @@ for item in association_results:
  
 ### Result: 
 
-Thus, the python program for implementing Apriori Algorithm has been executed successfully. f
+Thus, the python program for implementing Apriori Algorithm has been executed successfully. 
